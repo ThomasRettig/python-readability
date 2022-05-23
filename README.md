@@ -17,9 +17,9 @@ python src/main.py
 
 ## Output
 
-You're output should look like this:
+You're output should look similar to this:
 
-```
+```yaml
 Flesch reading ease: 46.64
 Flesch-Kincaid: 8.7
 SMOG index: 9.9
